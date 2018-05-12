@@ -1,4 +1,8 @@
 _repo: The-Librarian-at-Play_46933
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46933-h/images/cover.jpg
 creator:
   author:
     agent_name: Pearson, Edmund Lester
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1418
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Lester_Pearson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46933#The-Librarian-at-Play
 gutenberg_issued: '2014-09-22'
 gutenberg_type: Text
 identifiers:
